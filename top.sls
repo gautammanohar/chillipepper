@@ -1,0 +1,4 @@
+base:
+  '*':
+    - logcount
+    - users 
